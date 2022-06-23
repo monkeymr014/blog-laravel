@@ -1,0 +1,12 @@
+body {
+    background-color: blanchedalmond;
+    max-width: 600px;
+    margin: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article+article {
+    margin-top: 3em;
+    padding-top: 3em;
+    border-top: solid 1px;
+}
